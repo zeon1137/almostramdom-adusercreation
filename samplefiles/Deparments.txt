@@ -1,0 +1,13 @@
+GLogistics
+GTechnology
+GFinance
+GGEngineering
+GEngineering
+GSales
+GManagement
+GPlanning
+GSourcing
+GLegal
+GOperations
+GProduction
+GHR
